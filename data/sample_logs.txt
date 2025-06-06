@@ -1,0 +1,1 @@
+# Placeholder for data/sample_logs.txt in 4_Incident_Log_Generator

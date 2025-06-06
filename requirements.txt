@@ -1,0 +1,1 @@
+# Placeholder for requirements.txt in 4_Incident_Log_Generator
